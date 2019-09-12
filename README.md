@@ -15,8 +15,8 @@ Surf's Up helps surfers find the best beach in the San Diego area to enjoy some 
 |1.2|User shall make a password|
 |1.3|User shall link email to profile|
 |2|Map shall locate users position|
-|2.1|Map shall locate the beachs poosition|
-|2.2|Map shall be able to zoom in and out of user and beach loocations|
+|2.1|Map shall locate the beachs position|
+|2.2|Map shall be able to zoom in and out of user and beach locations|
 |2.3|Map shall provide distance to beach|
 |2.4|Map shall provide SU rate to user|
 |2.5|Map shall provide weather conditions at beaches|
@@ -55,7 +55,7 @@ Zoomed Map Page
 #### TODO
 <ul>
   <li>make markers smaller</li>
-  <li>create loogin functionality</li>
+  <li>create login functionality</li>
   <li>create zoom on marker buttonclick</li>
   <li>get rid of zoom buttons</li>
   <li>distinguish markers between beaches and user</li>
@@ -78,7 +78,7 @@ Current version of the prototype can be found above.
 |1.2|Not Tested|User shall make a password                     |Test      |Unit test|
 |1.3|Not Tested|User shall link email to profile               |Test      |Self-test<br>Login with email<br>Send verification password to said email|
 |2  |Not Tested|Map shall locate users position                |Test      |Verify location is accurate|
-|2.1|Not Tested|Map shall locate the beachs poosition          |Test      |Unit test|
+|2.1|Not Tested|Map shall locate the beachs position          |Test      |Unit test|
 |2.2|Not Tested|Map shall be able to zoom in and out of user and beach locations|Demonstration|Verify map is dynamic|
 |2.3|Not Tested|Map shall provide distance to beach            |Analysis  |Verify distance is correct with second source|
 |2.4|Not Tested|Map shall provide SU rate to user|Inspection   |Verify rate is displayed|
