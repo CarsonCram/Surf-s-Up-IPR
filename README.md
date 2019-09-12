@@ -67,7 +67,7 @@ Zoomed Map Page
 
 ## Project Demo
 
-Current version of the prototype can be found above. 
+Current version of the prototype can be found [here](https://github.com/CarsonCram/Surf-s-Up-Desktop). 
 
 ## Test Report
 
